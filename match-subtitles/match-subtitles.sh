@@ -9,11 +9,6 @@ echo "match-subtitle.sh"
 seriesDir=$1
 echo "$seriesDir"
 
-exit
-
-test1
-
-
 SAVEIFS=$IFS
 IFS=$(echo -en "\n\b")
 # set me
